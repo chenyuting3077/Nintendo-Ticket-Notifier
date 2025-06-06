@@ -20,6 +20,8 @@
 - 📣 發現開賣時自動透過 Discord Webhook 通知你
 
 ## 🔧 安裝與使用
+### 1. 下載 ChromeDriver
+下載 [ChromeDriver](https://googlechromelabs.github.io/chrome-for-testing/) 並將 `chromedriver.exe` 與 `main.py` 放於同資料夾
 
 ### 1. 安裝依賴套件
 
